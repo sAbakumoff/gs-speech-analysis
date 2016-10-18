@@ -1,0 +1,23 @@
+{
+  "name": "gs-speech-analysis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sAbakumoff/gs-speech-analysis.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sAbakumoff/gs-speech-analysis/issues"
+  },
+  "homepage": "https://github.com/sAbakumoff/gs-speech-analysis#readme",
+  "dependencies": {
+    "google-cloud": "^0.42.2",
+    "promise": "^7.1.1"
+  }
+}
